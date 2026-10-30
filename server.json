@@ -1,0 +1,11 @@
+{
+  "name": "kiin-linkedin-ads-mcp",
+  "title": "Kiin Intelligence — LinkedIn Ads MCP",
+  "description": "Remote MCP for LinkedIn Ads: read performance, audits, benchmarks, and CRM pipeline; write with preview-then-confirm.",
+  "type": "remote",
+  "url": "https://mcp.kiin.co/mcp",
+  "homepage": "https://kiin.co",
+  "docs": "https://kiin.co/linkedin-ads-mcp",
+  "author": "Kiin Intelligence",
+  "license": "Proprietary"
+}

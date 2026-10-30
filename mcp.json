@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kiin": {
+      "type": "streamable-http",
+      "url": "https://mcp.kiin.co/mcp"
+    }
+  }
+}
